@@ -1,0 +1,11 @@
+{
+  "name": "restful_api_from_scratch",
+  "version": "1.0.0",
+  "description": "RestfulAPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "No tests specified"
+  },
+  "author": "Gilbert Condon",
+  "license": "ISC"
+}
