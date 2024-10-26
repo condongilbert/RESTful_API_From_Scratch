@@ -6,6 +6,10 @@
   "scripts": {
     "test": "No tests specified"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/condongilbert/RESTful_API_From_Scratch.git"
+  },
   "author": "Gilbert Condon",
   "license": "ISC"
 }
