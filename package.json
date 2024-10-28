@@ -11,5 +11,10 @@
     "url": "https://github.com/condongilbert/RESTful_API_From_Scratch.git"
   },
   "author": "Gilbert Condon",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "jsonwebtoken": "^9.0.2",
+    "pg": "^8.13.1"
+  }
 }

@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "age": 30,
+      "location": "New York",
+      "interests": ["reading", "coding", "hiking"]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "age": 28,
+      "location": "San Francisco",
+      "interests": ["traveling", "photography", "gardening"]
+    }
+  ]
